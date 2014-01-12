@@ -1,20 +1,20 @@
-title:            Site Title
+title:            Metafarce
 tagline:          A short tagline
-description:      Describe your website.
+description:      A shameless attempt at self promotion.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://metafarce.com/
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Andrew McConachie
+  avatar:         me.jpg
+  bio:            "Software engineer, network engineer, technical advisor"
+  email:          andrewm@ischool.berkeley.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
-  linkedin:       
+  github:        https://github.com/smutt 
+  linkedin:      http://www.linkedin.com/pub/andrew-mcconachie/1/3/443 
   instagram:      
   lastfm:         
   tumblr:         
@@ -32,16 +32,14 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
+  - title: Archives
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: hexcap
+#    url: http://hexcap.org
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
