@@ -8,7 +8,7 @@ url:              http://metafarce.com/
 owner:
   name:           Andrew McConachie
   avatar:         me.jpg
-  bio:            "Software engineer, network engineer, technical advisor"
+  bio:            "Software engineer, network engineer, technologist"
   email:          andrewm@ischool.berkeley.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
@@ -31,9 +31,12 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /about/
+    url: about/
   - title: Archives
-    url: /articles/
+    url: archives/
+  - title: Resume
+    url: http://people.ischool.berkeley.edu/~andrewm/Andrew-McConachie.pdf
+    external: true
 #  - title: hexcap
 #    url: http://hexcap.org
 #    external: true
@@ -41,7 +44,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
 future:      true
-pygments:    true
+#pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
